@@ -1,0 +1,8 @@
+Interações através de redes não poderão ser rastreadas, através de extenso redirecionamento de pacotes criptografados e caixas à prova de adulteração que implementam protocolos criptográficos com garantia quase perfeita contra qualquer adulteração.
+
+Redes de alta velocidade, ISDN, caixas à prova de falsificação, cartões inteligentes, satélites, transmissores de banda Ku, computadores pessoais multi-MIPS e chips de criptografia agora em desenvolvimento serão algumas das tecnologias capacitadoras.
+
+O Estado tentará, é claro, desacelerar ou deter a disseminação dessa tecnologia, citando preocupações com a segurança nacional, o uso da tecnologia por traficantes de drogas e sonegadores de impostos e temores de desintegração social.
+
+E assim como uma invenção aparentemente pequena como o arame farpado tornou possível o cercamento de vastas fazendas e campos, alterando para sempre os conceitos de terra e direitos de propriedade na fronteira oeste, também a descoberta aparentemente menor de um ramo arcaico de a matemática passa a ser o cortador de arame que desmonta o arame farpado em torno da propriedade intelectual.
+
