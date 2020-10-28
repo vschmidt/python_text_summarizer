@@ -26,5 +26,5 @@ Edit the input, output and number of sentences:
 
 # Run
 ```console
-  python summarizeer.py
+  python summarizer.py
 ```
