@@ -18,11 +18,11 @@ Python automatic text summarizer
 # Edit params
 Edit the input, output and number of sentences:
 
-sents_qtd = 4 #Quantity of sents in summary 
-
-path = 'inputs/manifesto.txt' #Input path
-
-new_path = 'outputs/word_freq.txt' #Output path
+```python
+  sents_qtd = 4 #Quantity of sents in summary 
+  path = 'inputs/manifesto.txt' #Input path
+  new_path = 'outputs/word_freq.txt' #Output path
+```
 
 # Run
 ```console
